@@ -1,13 +1,69 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "My Custom Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Tomodachi Collection",
+      "file": "jingles/ds/Tomodachi Collection start menu.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Pokémon SoulSilver Version",
+      "file": "jingles/ds/Pokémon SoulSilver Version - Intro.mp3"
+    },
+    {
+      "game": "Phoenix Wright: Ace Attorney Trilogy",
+      "file": "jingles/ds/Ace Attorney Trilogy OST - Title Theme.mp3"
+    },
+    {
+      "game": "Peggle Dual Shot",
+      "file": "jingles/ds/Menu - Peggle_ Dual Shot.mp3"
+    },
+    {
+      "game": "New Super Mario Bros.",
+      "file": "jingles/ds/New Super Mario Bros Intro Theme.mp3"
+    },
+    {
+      "game": "Mario Kart DS",
+      "file": "jingles/ds/Mario Kart DS Music - Main Menu.mp3"
+    },
+    {
+      "game": "Mario & Luigi: Bowser's Inside Story",
+      "file": "jingles/ds/Mario and Luigi Bowser's Inside Story Music_ Title screen.mp3"
+    },
+    {
+      "game": "Lego Batman 2: DC Super Heroes",
+      "file": "jingles/ds/Lego Batman 2_ DC Super Heroes Soundtrack - Title Screen (1).mp3"
+    },
+    {
+      "game": "The Legend of Zelda: Spirit Tracks",
+      "file": "jingles/ds/The Legend of Zelda Spirit Tracks Menu Theme.mp3"
+    },
+    {
+      "game": "The Legend of Zelda: Phantom Hourglass",
+      "file": "jingles/ds/The Legend of Zelda Phantom Hourglass_ File SelectMenu Theme (Best Quality).mp3"
+    },
+    {
+      "game": "Kingdom Hearts Re:coded",
+      "file": "jingles/ds/Kingdom Hearts Recoded Menu Theme.mp3"
+    },
+    {
+      "game": "Kingdom Hearts 358/2 Days",
+      "file": "jingles/ds/Kingdom Hearts 3582 Days Menu Theme.mp3"
+    },
+    {
+      "game": "Ghost Trick: Phantom Detective",
+      "file": "jingles/ds/Ghost Trick Main Theme_ Remastered Ghost Trick_ Phantom Detective.mp3"
+    },
+    {
+      "game": "Castlevania: Dawn of Sorrow",
+      "file": "jingles/ds/Castlevania_ Dawn of Sorrow - Opening Intro HD.mp3"
+    },
+    {
+      "game": "Animal Crossing: Wild World",
+      "file": "jingles/ds/Title Screen - Animal Crossing_ Wild World Soundtrack.mp3"
+    },
+    {
+      "game": "Aliens: Infestation",
+      "file": "jingles/ds/[OST] Aliens Infestation (Nintendo DS) [Track 01] Menu.mp3"
     }
   ]
 }
